@@ -1,5 +1,5 @@
 [green_agent]
-agentbeats_id = "llm-db-agent"
+agentbeats_id = "019bbdc3-edfe-7592-be62-67354ab3e3a8"
 
 ## Environment variables passed to the green agent container.
 ## The Spider2SQL evaluator executes SQL on Snowflake, so credentials are required.
