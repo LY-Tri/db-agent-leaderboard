@@ -1,0 +1,9 @@
+{
+  "summary": "Placeholder results to unblock leaderboard refresh. Run the scenario to generate real results.",
+  "metrics": {
+    "pass_rate": 0.0,
+    "score": 0,
+    "max_score": 0
+  },
+  "results": []
+}
