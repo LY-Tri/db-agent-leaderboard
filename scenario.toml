@@ -1,5 +1,5 @@
 [green_agent]
-agentbeats_id = "019bbdc3-edfe-7592-be62-67354ab3e3a8"
+agentbeats_id = "019bc282-26e0-7b13-b99f-dcc163030632"
 
 ## Environment variables passed to the green agent container.
 ## The Spider2SQL evaluator executes SQL on Snowflake, so credentials are required.
